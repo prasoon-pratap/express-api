@@ -12,5 +12,18 @@
     "express-openapi": "^7.5.0",
     "morgan": "~1.9.1",
     "swagger-ui-express": "^4.1.6"
-  }
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasoon-pratap/express-api.git"
+  },
+  "author": "Prasoon Pratap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasoon-pratap/express-api/issues"
+  },
+  "homepage": "https://github.com/prasoon-pratap/express-api#readme",
+  "description": ""
 }
